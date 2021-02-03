@@ -12,3 +12,8 @@
             display: flex;
 
         }
+
+#linkedin {
+    justify-content: center; 
+    display: flex;
+}
