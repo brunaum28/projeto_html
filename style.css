@@ -1,0 +1,14 @@
+.imagens
+        {
+            justify-content: center; 
+            align-items: center; 
+            display: flex;
+        }
+
+.divcentralizada 
+        {
+            justify-content: center; 
+            align-items: center; 
+            display: flex;
+
+        }
